@@ -1,1 +1,3 @@
 # Code Refactor Starter Code
+
+The code for the website we were given had some inconsistencies. I started by swapping out some of the tags so that it would work better with the stylesheet that was also given. I also added the missing alt tags for the images, just to make reading the HTML a little easier. As for the stylesheet, a lot of the references were reorganized to avoid the redundancies present. 
